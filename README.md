@@ -1,25 +1,30 @@
-<h1 align="center">Hi , I'm Brian Dvp <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Freelancer;Competitive+Programmer;Always+learning+new+things"></a>
-</p>
+- :technologist: I love using Software as a solution for every Problem.
+- :computer: I am a competitive programmer.
+- :student: I'm currently learning Redux Toolkit, Next.js, and Python.
+- :nerd_face: Always learning new things.
+- :thinking: I'm currently open for a new job opportunity.
 
-<br>
+<br><br><br><br><br><br><br>
 
-<p align="center"> 
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with mer"> 
 	<img src="https://komarev.com/ghpvc/?username=briandvp&label=Profile%20views&color=0047AB&style=plastic?" alt="briandvp" height=25px, width=160px/>
 </p>
 
+<br>
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://res.cloudinary.com/doleg7smw/image/upload/v1761016332/uroboro_eymsxm.png" width = 250px></picture>
+<picture> <img align="right" src="https://res.cloudinary.com/doleg7smw/image/upload/v1761016332/uroboro_eymsxm.png" width = 300px></picture>
+
+<br>
 
 - :technologist: I love using Software as a solution for every Problem.
 - :computer: I am a competitive programmer.
-- :student: I’m currently learning Redux Toolkit, Next.js, and Python.
+- :student: I'm currently learning Redux Toolkit, Next.js, and Python.
 - :nerd_face: Always learning new things.
-- :thinking: I’m currently open for a new job opportunity.
+- :thinking: I'm currently open for a new job opportunity.
 
-<br>
+<br><br><br><br><br><br><br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
@@ -30,9 +35,12 @@
 	<a href="https://twitter.com/Brian_dvp"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
+<br>
+
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -47,12 +55,17 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
+  </a>
+  &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -66,9 +79,18 @@
   <a href="https://reactjs.org/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
   </a>
+  &emsp;
+  <a href="https://nextjs.org/" target="_blank">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=nextdotjs&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
+  </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+
 <p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
@@ -78,23 +100,35 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white"></a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?style=plastic&logo=WebStorm&logoColor=white" /></a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+
 <p align="center">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
 </p>
+
+<br>
+
+---
 
 <br>
 
@@ -102,6 +136,105 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
+<br>
+
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</
+<details>
+  <summary><h3> 🔥 Streak Stats</h3></summary>
+
+  <p align="center">
+    <a href="https://github.com/briandvp/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Brian's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=briandvp&theme=tokyonight&hide_border=true"/>
+    </a>
+  </p>
+</details>
+
+<details>
+  <summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Brian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=briandvp&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="192px"/>
+    </a>
+    <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Brian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briandvp&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/>
+    </a>
+    <br/>
+  </p>
+</details>
+
+<details>
+  <summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+  <br/>
+  <a href="https://github.com/briandvp">
+    <img alt="Brian's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=briandvp&theme=tokyo-night&hide_border=true" />
+  </a>
+</details>
+
+<br>
+
+---
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=briandvp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
+  </a>
+</p>
+
+<br>
+
+---
+
+<br>
+
+## 📂 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/briandvp/brian_blog">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=briandvp&repo=brian_blog&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<br>
+
+### 🌟 Diario Estoico Blog
+
+Un blog personal sobre filosofía estoica, desarrollo personal y reflexiones sobre la vida.
+
+**Características:**
+- 📝 Blog personal con sistema de posts y comentarios
+- 🏪 Tienda integrada con carrito de compras
+- 🎨 Dashboard para gestión de contenido
+- 🔐 Sistema de autenticación completo
+- 📊 Panel de administración con estadísticas
+- 🎯 Diseño responsive y moderno
+
+**Tecnologías:**
+- Next.js 15 + React 19
+- TypeScript
+- Tailwind CSS
+- Prisma ORM
+- PostgreSQL
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+  <h3>💖 Thanks for visiting my profile! 💖</h3>
+  <p>Feel free to reach out if you want to collaborate or just have a chat!</p>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
