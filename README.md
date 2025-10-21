@@ -1,12 +1,11 @@
-- :technologist: I love using Software as a solution for every Problem.
-- :computer: I am a competitive programmer.
-- :student: I'm currently learning Redux Toolkit, Next.js, and Python.
-- :nerd_face: Always learning new things.
-- :thinking: I'm currently open for a new job opportunity.
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<p align="center">
+	<a href="mailto:briandvp@example.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>e&width=600&height=100&lines=Software+Developer;Freelancer;Competitive+Programmer;Always+learning+new+things"></a>
+</p>
 
-<br><br><br><br><br><br><br>
+<br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with mer"> 
+<p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=briandvp&label=Profile%20views&color=0047AB&style=plastic?" alt="briandvp" height=25px, width=160px/>
 </p>
 
@@ -28,7 +27,7 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:briandvp@example.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:briandvp@example.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/briandvp"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/brian-gamarra/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/brian_mep/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
