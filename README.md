@@ -1,15 +1,3 @@
-**## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="mailto:briandvp@example.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>e&width=600&height=100&lines=Software+Developer;Freelancer;Competitive+Programmer;Always+learning+new+things"></a>
-</p>
-
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=briandvp&label=Profile%20views&color=0047AB&style=plastic?" alt="briandvp" height=25px, width=160px/>
-</p>
-
-<br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
