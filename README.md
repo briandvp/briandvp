@@ -168,50 +168,6 @@
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=briandvp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
-  </a>
-</p>
-
-<br>
-
----
-
-<br>
-
-## 📂 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/briandvp/brian_blog">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=briandvp&repo=brian_blog&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<br>
-
-### 🌟 Diario Estoico Blog
-
-Un blog personal sobre filosofía estoica, desarrollo personal y reflexiones sobre la vida.
-
-**Características:**
-- 📝 Blog personal con sistema de posts y comentarios
-- 🏪 Tienda integrada con carrito de compras
-- 🎨 Dashboard para gestión de contenido
-- 🔐 Sistema de autenticación completo
-- 📊 Panel de administración con estadísticas
-- 🎯 Diseño responsive y moderno
-
-**Tecnologías:**
-- Next.js 15 + React 19
-- TypeScript
-- Tailwind CSS
-- Prisma ORM
-- PostgreSQL
-
-<br>
 
 ---
 
