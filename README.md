@@ -1,4 +1,4 @@
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+**## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:briandvp@example.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>e&width=600&height=100&lines=Software+Developer;Freelancer;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
@@ -237,3 +237,4 @@ Un blog personal sobre filosofía estoica, desarrollo personal y reflexiones sob
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+**
